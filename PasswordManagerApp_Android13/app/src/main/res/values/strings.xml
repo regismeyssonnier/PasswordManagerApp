@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordManagerApp</string>
+    <string name="password_text">Enter Password</string>
+    <string name="account_text">Enter Account</string>
+    <string name="button_text_validate">Validate new password</string>
+    <string name="button_text_search">Search password</string>
+</resources>
